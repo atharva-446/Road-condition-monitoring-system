@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "139598866833",
+    "firebase_url": "https://rcm-12-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "rcm-12",
+    "storage_bucket": "rcm-12.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139598866833:android:c0ab14990788682bddd230",
+        "android_client_info": {
+          "package_name": "com.example.road_condition_monitor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfPbobzXu7ZaV4Rwe3D5SMTHuFG65uMM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
