@@ -9,6 +9,26 @@ An IoT-based embedded monitoring platform designed to collect vehicle vibration 
 
 ---
 
+## 🛠️ Technology Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets" />
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
+</p>
+
+### Application and Firmware
+
+- **Flutter (Dart):** Mobile application for GPS mapping, live telemetry, sensor calibration, trip controls, and session logs.
+- **Python:** Raspberry Pi firmware for sensor acquisition, GPS data processing, and communication with the cloud backend.
+- **Raspberry Pi 4 Model B:** Main hardware processing platform.
+- **Firebase:** Cloud data storage and communication between the device and mobile application.
+- **Google Sheets:** Data logging and export workflow.
+- **KiCad:** Circuit schematic design.
+
 ## Table of Contents
 
 - [Overview](#overview)
